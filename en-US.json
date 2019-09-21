@@ -1,5 +1,5 @@
 {
-  "personalDetails": {
-    "title": "Personal details"
+  "settings": {
+    "workout": "My Workouts"
   }
 }
